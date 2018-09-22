@@ -14,9 +14,6 @@ SCHEMA_CHANGES = "schema_changes"
 STATES = "states"
 
 
-# class ConnectionError(Exception):
-#     pass
-
 UNIT_MAP = {
     "celsius": "\u00b0C",
     "fahrenheit": "\u00B0F"
